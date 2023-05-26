@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "haQeWGcz+Idwrkl/uSYhNU6IvlbLoM2TU7Y/9RP3Vte/F2UC31MH45dyj1ykAWJSsUXw8mMkz8xuUapRHwh02A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pilabrem\\source\\repos\\PizzaPoo\\PizzaPoo\\PizzaPoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pilabrem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
